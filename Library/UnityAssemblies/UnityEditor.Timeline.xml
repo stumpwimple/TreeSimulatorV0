@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEditor.Timeline</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEditor.Timeline.Graphics">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

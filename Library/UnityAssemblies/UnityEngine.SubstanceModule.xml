@@ -1,0 +1,185 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.SubstanceModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.ProceduralPropertyType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralProcessorUsage">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralMaterial">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralCacheSize">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralLoadingBehavior">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.cacheSize">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralOutputType">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.animationUpdateRate">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralPropertyDescription">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isProcessing">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralTexture">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.name">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isCachedDataAvailable">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralTexture.hasAlpha">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.label">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isLoadTimeGenerated">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralTexture.format">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.group">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.loadingBehavior">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralTexture.GetProceduralOutputType()">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isSupported">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.type">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.substanceProcessorUsage">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.hasRange">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralTexture.GetPixels32(System.Int32,System.Int32,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.preset">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.minimum">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isReadable">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.maximum">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ProceduralMaterial.isFrozen">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.step">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralPropertyDescriptions()">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.enumOptions">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.HasProceduralProperty(System.String)">
+			<summary></summary>
+		</member>
+		<member name="F:UnityEngine.ProceduralPropertyDescription.componentLabels">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralBoolean(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.IsProceduralPropertyVisible(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralBoolean(System.String,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralFloat(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralFloat(System.String,System.Single)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralVector(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralVector(System.String,UnityEngine.Vector4)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralColor(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralColor(System.String,UnityEngine.Color)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralEnum(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralEnum(System.String,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralTexture(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralTexture(System.String,UnityEngine.Texture2D)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetProceduralString(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.SetProceduralString(System.String,System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.IsProceduralPropertyCached(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.CacheProceduralProperty(System.String,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.ClearCache()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.RebuildTextures()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.RebuildTexturesImmediately()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.StopRebuilds()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetGeneratedTextures()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.GetGeneratedTexture(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ProceduralMaterial.FreezeAndReleaseSourceData()">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

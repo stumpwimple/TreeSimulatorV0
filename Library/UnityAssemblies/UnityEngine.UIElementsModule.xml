@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.UIElementsModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.Experimental.UIElements.PopupWindow">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.Yoga.Logger">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

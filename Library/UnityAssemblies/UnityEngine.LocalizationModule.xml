@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.LocalizationModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.LocalizationAsset">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.LocalizationAsset.localeIsoCode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.LocalizationAsset.isEditorAsset">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.LocalizationAsset.SetLocalizedString(System.String,System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.LocalizationAsset.GetLocalizedString(System.String)">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.TilemapModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.CustomGridBrushAttribute">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.CustomGridBrushAttribute.hideAssetInstances">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.GridBrushBase">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.CustomGridBrushAttribute.hideDefaultInstance">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Paint(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.Vector3Int)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.CustomGridBrushAttribute.defaultBrush">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Erase(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.Vector3Int)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.CustomGridBrushAttribute.defaultName">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.BoxFill(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.GridBrushBase.Tool">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.BoxErase(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Select(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.GridBrushBase.RotationDirection">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.FloodFill(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.Vector3Int)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Rotate(UnityEngine.GridBrushBase.RotationDirection,UnityEngine.GridLayout.CellLayout)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.GridBrushBase.FlipAxis">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Flip(UnityEngine.GridBrushBase.FlipAxis,UnityEngine.GridLayout.CellLayout)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Pick(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt,UnityEngine.Vector3Int)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.Move(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.MoveStart(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.MoveEnd(UnityEngine.GridLayout,UnityEngine.GameObject,UnityEngine.BoundsInt)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.ChangeZPosition(System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.GridBrushBase.ResetZPosition()">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

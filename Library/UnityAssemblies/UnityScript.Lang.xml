@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityScript.Lang</name>
+	</assembly>
+	<members>
+		<member name="T:UnityScript.Lang.Array">
+			<summary></summary>
+		</member>
+		<member name="P:UnityScript.Lang.Array.length">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.clear()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Add(System.Object,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Add(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Push(System.Object,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.push(System.Object,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.push(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Push(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Unshift(System.Object,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.unshift(System.Object,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Concat(System.Collections.ICollection,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.concat(System.Collections.ICollection,System.Object[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Pop()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.pop()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Shift()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.shift()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Sort(UnityScript.Lang.Array.Comparison)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.sort(UnityScript.Lang.Array.Comparison)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Sort()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.sort()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.Join(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityScript.Lang.Array.join(System.String)">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

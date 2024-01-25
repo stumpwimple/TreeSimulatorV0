@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEditorInternal.AnimatorControllerParameter">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralPropertyDescription">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEditorInternal.AnimatorControllerParameterType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkStateSynchronization">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralMaterial">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralTexture">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.AnimationInfo">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkPeerType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralProcessorUsage">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.RPCMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkLogLevel">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralCacheSize">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ConnectionTesterStatus">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralPropertyType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkPlayer">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralLoadingBehavior">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkConnectionError">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ProceduralOutputType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkViewID">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkDisconnection">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.BitStream">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.HostData">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.MasterServerEvent">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.RPC">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkView">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.MasterServer">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.NetworkMessageInfo">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.Network">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

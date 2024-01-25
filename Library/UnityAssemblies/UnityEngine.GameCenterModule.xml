@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.GameCenterModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.Social">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.Social.localUser">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.LoadUsers(System.String[],System.Action`1<UnityEngine.SocialPlatforms.IUserProfile[]>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.ReportProgress(System.String,System.Double,System.Action`1<System.Boolean>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.LoadAchievementDescriptions(System.Action`1<UnityEngine.SocialPlatforms.IAchievementDescription[]>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.LoadAchievements(System.Action`1<UnityEngine.SocialPlatforms.IAchievement[]>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.ReportScore(System.Int64,System.String,System.Action`1<System.Boolean>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.LoadScores(System.String,System.Action`1<UnityEngine.SocialPlatforms.IScore[]>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.CreateLeaderboard()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.CreateAchievement()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.ShowAchievementsUI()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.Social.ShowLeaderboardUI()">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

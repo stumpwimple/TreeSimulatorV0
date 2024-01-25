@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>System</name>
+	</assembly>
+	<members>
+		<member name="T:System.Net.NetworkInformation.Ping">
+			<summary></summary>
+		</member>
+		<member name="T:System.Diagnostics.Debug">
+			<summary></summary>
+		</member>
+		<member name="T:System.Configuration.SettingsProvider">
+			<summary></summary>
+		</member>
+		<member name="T:System.Configuration.SettingsProviderAttribute">
+			<summary></summary>
+		</member>
+		<member name="T:System.ComponentModel.AsyncOperation">
+			<summary></summary>
+		</member>
+		<member name="T:System.ComponentModel.Component">
+			<summary></summary>
+		</member>
+		<member name="M:System.Diagnostics.Debug.Assert(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Diagnostics.Debug.Assert(System.Boolean,System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Diagnostics.Debug.Assert(System.Boolean,System.String,System.String)">
+			<summary></summary>
+		</member>
+		<member name="T:System.ComponentModel.Design.MenuCommand">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.SpriteMaskModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.SpriteMask">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.frontSortingLayerID">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.frontSortingOrder">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.backSortingLayerID">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.backSortingOrder">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.alphaCutoff">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.sprite">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.isCustomRangeActive">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.SpriteMask.spriteSortPoint">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

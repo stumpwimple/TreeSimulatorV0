@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.StreamingModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.StreamingController">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.StreamingController.streamingMipmapBias">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.StreamingController.SetPreloading(System.Single,System.Boolean,UnityEngine.Camera)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.StreamingController.CancelPreloading()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.StreamingController.IsPreloading()">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

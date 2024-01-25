@@ -1,0 +1,122 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>mscorlib</name>
+	</assembly>
+	<members>
+		<member name="T:System.String">
+			<summary></summary>
+		</member>
+		<member name="T:System.Array">
+			<summary></summary>
+		</member>
+		<member name="T:System.IO.Path">
+			<summary></summary>
+		</member>
+		<member name="T:System.Collections.Hashtable">
+			<summary></summary>
+		</member>
+		<member name="M:System.IO.Path.Combine(System.String,System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:System.IO.Path.GetDirectoryName(System.String)">
+			<summary></summary>
+		</member>
+		<member name="T:System.Object">
+			<summary></summary>
+		</member>
+		<member name="M:System.IO.Path.GetExtension(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:System.IO.Path.GetFileName(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:System.IO.Path.GetFileNameWithoutExtension(System.String)">
+			<summary></summary>
+		</member>
+		<member name="T:System.Threading.ThreadPriority">
+			<summary></summary>
+		</member>
+		<member name="P:System.Array.Length">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Clear(System.Array,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Array)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Array,System.Collections.IComparer)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Array,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Array,System.Int32,System.Int32,System.Collections.IComparer)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Collections.IComparer)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(System.Array,System.Int32,System.Int32,System.Collections.IComparer)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(T[])">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(T[],System.Collections.Generic.IComparer`1<T>)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(T[],System.Comparison`1<T>)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(T[],System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(T[],System.Int32,System.Int32,System.Collections.Generic.IComparer`1<T>)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(TKey[],TValue[])">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(TKey[],TValue[],System.Collections.Generic.IComparer`1<TKey>)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Object.ToString()">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(TKey[],TValue[],System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Array.Sort(TKey[],TValue[],System.Int32,System.Int32,System.Collections.Generic.IComparer`1<TKey>)">
+			<summary></summary>
+		</member>
+		<member name="T:System.Random">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.Add(System.Object,System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.Clear()">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.Contains(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.ContainsKey(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.ContainsValue(System.Object)">
+			<summary></summary>
+		</member>
+		<member name="M:System.Collections.Hashtable.Remove(System.Object)">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

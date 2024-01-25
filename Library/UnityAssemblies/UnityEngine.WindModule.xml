@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.WindModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.WindZoneMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.WindZone">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.mode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.radius">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.windMain">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.windTurbulence">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.windPulseMagnitude">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WindZone.windPulseFrequency">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

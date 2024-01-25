@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.ScreenCaptureModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.ScreenCapture">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshot(System.String)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshot(System.String,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshot(System.String,UnityEngine.ScreenCapture.StereoScreenCaptureMode)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshotAsTexture()">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshotAsTexture(System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ScreenCapture.CaptureScreenshotAsTexture(UnityEngine.ScreenCapture.StereoScreenCaptureMode)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ScreenCapture.StereoScreenCaptureMode">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.VehiclesModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.WheelHit">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.collider">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.WheelCollider">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.point">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.center">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.normal">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.radius">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.forwardDir">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.sidewaysDir">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.suspensionDistance">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.force">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.forwardSlip">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelHit.sidewaysSlip">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.suspensionSpring">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.forceAppPointDistance">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.mass">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.wheelDampingRate">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.forwardFriction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.sidewaysFriction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.motorTorque">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.brakeTorque">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.steerAngle">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.isGrounded">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.rpm">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.WheelCollider.sprungMass">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.WheelCollider.ConfigureVehicleSubsteps(System.Single,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.WheelCollider.GetWorldPose(UnityEngine.Vector3&,UnityEngine.Quaternion&)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.WheelCollider.GetGroundHit(UnityEngine.WheelHit&)">
+			<summary></summary>
+		</member>
+	</members>
+</doc>

@@ -1,0 +1,662 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEngine.ParticleSystemModule</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEngine.ParticleSystem">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.TriggerModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startDelay">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.loop">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.playOnAwake">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.duration">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.playbackSpeed">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.enableEmission">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.ColorOverLifetimeModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.emissionRate">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.SubEmittersModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startSpeed">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startSize">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.ColorBySpeedModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startColor">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startRotation">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startRotation3D">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.startLifetime">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.gravityModifier">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.maxParticles">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.simulationSpace">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.scalingMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemShapeTextureChannel">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.automaticCullingEnabled">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.isPlaying">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.isEmitting">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemAnimationMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.isStopped">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.isPaused">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemAnimationTimeMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.particleCount">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.time">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.randomSeed">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemAnimationType">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.useAutoRandomSeed">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.proceduralSimulationSupported">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCollisionType">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MainModule UnityEngine.ParticleSystem.main">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.EmissionModule UnityEngine.ParticleSystem.emission">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCollisionMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.ShapeModule UnityEngine.ParticleSystem.shape">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.VelocityOverLifetimeModule UnityEngine.ParticleSystem.velocityOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemOverlapAction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.LimitVelocityOverLifetimeModule UnityEngine.ParticleSystem.limitVelocityOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.InheritVelocityModule UnityEngine.ParticleSystem.inheritVelocity">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemSimulationSpace">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.ForceOverLifetimeModule UnityEngine.ParticleSystem.forceOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.ColorOverLifetimeModule UnityEngine.ParticleSystem.colorOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.ColorBySpeedModule UnityEngine.ParticleSystem.colorBySpeed">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemStopBehavior">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.SizeOverLifetimeModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.SizeOverLifetimeModule UnityEngine.ParticleSystem.sizeOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemScalingMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.SizeBySpeedModule UnityEngine.ParticleSystem.sizeBySpeed">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.TextureSheetAnimationModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.RotationOverLifetimeModule UnityEngine.ParticleSystem.rotationOverLifetime">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemStopAction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.RotationBySpeedModule UnityEngine.ParticleSystem.rotationBySpeed">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.ExternalForcesModule UnityEngine.ParticleSystem.externalForces">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCullingMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.NoiseModule UnityEngine.ParticleSystem.noise">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.CollisionModule UnityEngine.ParticleSystem.collision">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.TriggerModule UnityEngine.ParticleSystem.trigger">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemEmitterVelocityMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.SubEmittersModule UnityEngine.ParticleSystem.subEmitters">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemInheritVelocityMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.TextureSheetAnimationModule UnityEngine.ParticleSystem.textureSheetAnimation">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.LightsModule UnityEngine.ParticleSystem.lights">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemVertexStreams">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemTriggerEventType">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.TrailModule UnityEngine.ParticleSystem.trails">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.CustomDataModule UnityEngine.ParticleSystem.customData">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetCustomParticleData(System.Collections.Generic.List`1<UnityEngine.Vector4>,UnityEngine.ParticleSystemCustomData)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemVertexStream">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetCustomParticleData(System.Collections.Generic.List`1<UnityEngine.Vector4>,UnityEngine.ParticleSystemCustomData)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.TriggerSubEmitter(System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.TriggerSubEmitter(System.Int32,UnityEngine.ParticleSystem.Particle&)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemRenderMode">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.TriggerSubEmitter(System.Int32,System.Collections.Generic.List`1<UnityEngine.ParticleSystem.Particle>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Emit(UnityEngine.Vector3,UnityEngine.Vector3,System.Single,System.Single,UnityEngine.Color32)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemSortMode">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Emit(UnityEngine.ParticleSystem.Particle)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCollisionQuality">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemRenderSpace">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCustomData">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCurveMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemCustomDataMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemGradientMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemShapeType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemNoiseQuality">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemSubEmitterType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemMeshShapeType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemSubEmitterProperties">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(UnityEngine.ParticleSystem.Particle[],System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemForceField">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(UnityEngine.ParticleSystem.Particle[],System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.shape">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(UnityEngine.ParticleSystem.Particle[])">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.startRange">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemTrailMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.endRange">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.length">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.SetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemTrailTextureMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.gravityFocus">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.SizeBySpeedModule">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(UnityEngine.ParticleSystem.Particle[],System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.rotationRandomness">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.Burst">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(UnityEngine.ParticleSystem.Particle[],System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.multiplyDragByParticleSize">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(UnityEngine.ParticleSystem.Particle[])">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemShapeMultiModeValue">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.multiplyDragByParticleVelocity">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.LightsModule">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.GetParticles(Unity.Collections.NativeArray`1<UnityEngine.ParticleSystem.Particle>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Simulate(System.Single,System.Boolean,System.Boolean,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Simulate(System.Single,System.Boolean,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemForceField.vectorField">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Simulate(System.Single,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.directionX">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Simulate(System.Single)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.directionY">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Play(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.directionZ">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Play()">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.gravity">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Pause(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.rotationSpeed">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemRingBufferMode">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Pause()">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.rotationAttraction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.drag">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Stop(System.Boolean,UnityEngine.ParticleSystemStopBehavior)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Stop(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.vectorFieldSpeed">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Stop()">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystem.MinMaxCurve UnityEngine.ParticleSystemForceField.vectorFieldAttraction">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Clear(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Clear()">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemGameObjectFilter">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.MinMaxGradient">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.IsAlive(System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.IsAlive()">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemForceFieldShape">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Emit(System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.Emit(UnityEngine.ParticleSystem.EmitParams,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.EmissionModule">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystem.ResetPreMappedBufferMemory()">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.NoiseModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.EmitParams">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.MainModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.RotationOverLifetimeModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.RotationBySpeedModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemRenderer">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.mesh">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.meshCount">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.TrailModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.ShapeModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.ExternalForcesModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.CollisionModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.Particle">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticlePhysicsExtensions">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.GetSafeCollisionEventSize(UnityEngine.ParticleSystem)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.GetCollisionEvents(UnityEngine.ParticleSystem,UnityEngine.GameObject,System.Collections.Generic.List`1<UnityEngine.ParticleCollisionEvent>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.GetSafeTriggerParticlesSize(UnityEngine.ParticleSystem,UnityEngine.ParticleSystemTriggerEventType)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.GetTriggerParticles(UnityEngine.ParticleSystem,UnityEngine.ParticleSystemTriggerEventType,System.Collections.Generic.List`1<UnityEngine.ParticleSystem.Particle>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.SetTriggerParticles(UnityEngine.ParticleSystem,UnityEngine.ParticleSystemTriggerEventType,System.Collections.Generic.List`1<UnityEngine.ParticleSystem.Particle>,System.Int32,System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.SetTriggerParticles(UnityEngine.ParticleSystem,UnityEngine.ParticleSystemTriggerEventType,System.Collections.Generic.List`1<UnityEngine.ParticleSystem.Particle>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticlePhysicsExtensions.GetCollisionEvents(UnityEngine.ParticleSystem,UnityEngine.GameObject,UnityEngine.ParticleCollisionEvent[])">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystemEmissionType">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.CustomDataModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.activeVertexStreamsCount">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.alignment">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.renderMode">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.sortMode">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.MinMaxCurve">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.lengthScale">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.velocityScale">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.cameraVelocityScale">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.normalDirection">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.shadowBias">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.sortingFudge">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.minParticleSize">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.maxParticleSize">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.pivot">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.flip">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.VelocityOverLifetimeModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.maskInteraction">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.trailMaterial">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.enableGPUInstancing">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleSystemRenderer.allowRoll">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.GetMeshes(UnityEngine.Mesh[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.SetMeshes(UnityEngine.Mesh[])">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.SetMeshes(UnityEngine.Mesh[],System.Int32)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.SetActiveVertexStreams(System.Collections.Generic.List`1<UnityEngine.ParticleSystemVertexStream>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.GetActiveVertexStreams(System.Collections.Generic.List`1<UnityEngine.ParticleSystemVertexStream>)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.EnableVertexStreams(UnityEngine.ParticleSystemVertexStreams)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.DisableVertexStreams(UnityEngine.ParticleSystemVertexStreams)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.AreVertexStreamsEnabled(UnityEngine.ParticleSystemVertexStreams)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.GetEnabledVertexStreams(UnityEngine.ParticleSystemVertexStreams)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.BakeMesh(UnityEngine.Mesh,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.BakeMesh(UnityEngine.Mesh,UnityEngine.Camera,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.BakeTrailsMesh(UnityEngine.Mesh,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="M:UnityEngine.ParticleSystemRenderer.BakeTrailsMesh(UnityEngine.Mesh,UnityEngine.Camera,System.Boolean)">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleCollisionEvent">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleCollisionEvent.intersection">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleCollisionEvent.normal">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleCollisionEvent.velocity">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleCollisionEvent.colliderComponent">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.LimitVelocityOverLifetimeModule">
+			<summary></summary>
+		</member>
+		<member name="P:UnityEngine.ParticleCollisionEvent.collider">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.InheritVelocityModule">
+			<summary></summary>
+		</member>
+		<member name="T:UnityEngine.ParticleSystem.ForceOverLifetimeModule">
+			<summary></summary>
+		</member>
+	</members>
+</doc>
